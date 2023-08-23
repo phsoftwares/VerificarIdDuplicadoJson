@@ -1,0 +1,15 @@
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\obj\Debug\net7.0\VerificarJsonDuplicado.csproj.AssemblyReference.cache
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\obj\Debug\net7.0\VerificarJsonDuplicado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\obj\Debug\net7.0\VerificarJsonDuplicado.AssemblyInfoInputs.cache
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\obj\Debug\net7.0\VerificarJsonDuplicado.AssemblyInfo.cs
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\obj\Debug\net7.0\VerificarJsonDuplicado.csproj.CoreCompileInputs.cache
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\bin\Debug\net7.0\VerificarJsonDuplicado.exe
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\bin\Debug\net7.0\VerificarJsonDuplicado.deps.json
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\bin\Debug\net7.0\VerificarJsonDuplicado.runtimeconfig.json
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\bin\Debug\net7.0\VerificarJsonDuplicado.dll
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\bin\Debug\net7.0\VerificarJsonDuplicado.pdb
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\obj\Debug\net7.0\VerificarJsonDuplicado.dll
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\obj\Debug\net7.0\refint\VerificarJsonDuplicado.dll
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\obj\Debug\net7.0\VerificarJsonDuplicado.pdb
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\obj\Debug\net7.0\VerificarJsonDuplicado.genruntimeconfig.cache
+C:\Users\Korp\RiderProjects\VerificarJsonDuplicado\VerificarJsonDuplicado\obj\Debug\net7.0\ref\VerificarJsonDuplicado.dll
